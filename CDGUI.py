@@ -1,3 +1,4 @@
+
 import ColourDetection
 from os.path import exists
 
@@ -78,3 +79,8 @@ HeadingLabel.configure(justify='center')
 HeadingLabel.configure(text='''Colour Detection''')
 
 top.mainloop()
+
+
+#sudo apt-get install python3-tk
+#pip3 install opencv-python
+#pip3 install pandas
